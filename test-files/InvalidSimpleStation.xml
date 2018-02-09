@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Stations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../station.xsd">
+  <StationXML>
+    <id>0</id>
+    <title>title</title>
+    <repeat>true</repeat>
+    <shuffle>true</shuffle>
+    <color>0</color>
+    <AudioTracks>
+      <AudioTrackXML>
+        <id>0</id>
+        <artist>artist</artist>
+        <title>title</title>
+        <TrackChunks>
+          <chunk>0000000</chunk>
+        </TrackChunks>
+      </AudioTrackXML>
+    </AudioTracks>
+  </StationXML>
+</Stations>
